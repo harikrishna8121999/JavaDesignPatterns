@@ -1,4 +1,4 @@
-package org.java;
+package org.java.FactoryMethod;
 
 // CheesePizza.java inherits Parent class Pizza
 public class CheesePizza implements Pizza{

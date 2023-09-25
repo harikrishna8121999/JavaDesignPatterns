@@ -1,4 +1,4 @@
-package org.java;
+package org.java.FactoryMethod;
 
 public class SimplePizzaFactory implements PizzaFactory{
     public Pizza createPizza(String pizzaName) {
