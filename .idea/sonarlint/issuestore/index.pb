@@ -11,8 +11,6 @@ t
 DFactoryMethod/src/main/java/org/java/FactoryMethod/PizzaFactory.java,e\3\e36671158c62e01bbcbee8b36d66a5bf6677c859
 z
 JFactoryMethod/src/main/java/org/java/FactoryMethod/SimplePizzaFactory.java,6\b\6b6868fe704b83e58d4c4529b683ad3079afa7d3
-G
-FactoryMethod/README.md,0\0\007ee9a12adb41878aed6d7a8b77e17534dc38ee
 E
 FactoryMethod/pom.xml,5\8\58ee6d0fd6a8ec569283749b88669d8edcd830a9
 A
